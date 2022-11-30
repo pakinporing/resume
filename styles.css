@@ -1,0 +1,42 @@
+body {
+  font-family: 'Prompt', sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 48px;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.p1 {
+  border-radius: 20px
+}
+
+p {
+  font-size: 16px;
+}
+
+
+table {
+  border-collapse: collapse;
+
+}
+
+th,
+td {
+  border: 1px solid black;
+}
+
+div {
+  border: 1px solid;
+  padding: 25px;
+  margin: 50px;
+  margin-left: 1px;
+  margin-right: 1000px;
+  border-radius: 20px;
+  width: 300px;
+}
